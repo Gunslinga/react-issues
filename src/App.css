@@ -1,0 +1,21 @@
+#tableComponent{
+  width:900px;
+  margin:0 auto;
+}
+
+#tableComponent > table{
+  line-height: 25px;
+}
+
+#tableComponent > .pagination{
+  margin-top:10px;
+}
+
+table{
+  border-collapse: collapse;
+}
+
+tr td{
+  border:1px solid black;
+  padding:5px;
+}
